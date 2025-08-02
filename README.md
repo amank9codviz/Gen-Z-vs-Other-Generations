@@ -85,3 +85,20 @@ Breaks screen time into high, medium, and low usage categories for each generati
 💬 Communication Tactics: Adapt marketing language and channels based on preferred modes
 
 🔐 Privacy Positioning: Tailor AI tools and privacy policies for more skeptical user bases
+
+Key Takeaways:
+
+📱 Device Ownership
+Gen Z leads in device ownership, averaging 3.76 devices per person, slightly more than other generations. This suggests they are highly embedded in multi-device ecosystems, which aligns with their mobile-first behavior.
+
+
+⏳ Screen Time
+Millennials and Gen X have the highest average daily screen time (approaching 7 hours), while Boomers and Gen Z follow closely. However, Gen Z has a larger proportion of users in the "medium" usage category, indicating more balanced or purpose-driven engagement.
+
+
+💬 Communication Preferences
+Across all generations, text messaging dominates, with nearly 25% selecting it as their most common communication method. Voice calling and email lag behind, reinforcing the shift toward asynchronous communication.
+
+
+📰 News Consumption
+TV remains the most trusted news source across all groups, followed by newspapers and online news. Social media, despite its popularity, ranks lowest in trust a noteworthy insight for content marketers and digital strategists.
